@@ -1,1 +1,7 @@
-"# DinoRun" 
+The Dino Run project is a simple yet engaging game developed in C++ that recreates the popular offline dinosaur running game found in Google Chrome. This project demonstrates the use of fundamental programming concepts such as loops, conditional statements, object-oriented programming, and basic graphics handling. The objective of the game is to control a running dinosaur that must jump over obstacles, such as cacti, and avoid collisions in order to achieve the highest possible score.
+
+The game begins with the dinosaur in a stationary position, and as the player starts, the dinosaur begins running continuously. Obstacles appear randomly at varying distances, and the player must press a specific key (such as the spacebar) to make the dinosaur jump and avoid them. Each successful jump without collision increases the score, providing a sense of challenge and progression. If the dinosaur collides with an obstacle, the game ends, and the final score is displayed.
+
+This project highlights the importance of timing, user input handling, and collision detection in game development. It also introduces the concept of real-time game loops, where screen updates and object movements must be continuously refreshed. For output, the game may use either text-based console graphics (characters and symbols) or simple 2D graphics libraries for a more visual experience.
+
+Overall, Dino Run in C++ is an excellent beginner-level project for understanding the basics of interactive game design, logic implementation, and user engagement. It can be further expanded with features such as increasing speed, multiple levels, or sound effects to make the game more dynamic and entertaining.
